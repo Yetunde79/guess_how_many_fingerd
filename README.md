@@ -1,1 +1,1 @@
-# guess_how_many_fingerd
+# guess_how_many_fingers
